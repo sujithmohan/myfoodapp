@@ -1,0 +1,6 @@
+User App URL : https://apex.oracle.com/pls/apex/r/my_home_food/myhomefood/home
+
+Wkspace: my_food_app
+usr: mohansujith05@gmail.com
+pwd: Mukund@05
+

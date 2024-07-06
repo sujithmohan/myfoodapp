@@ -1,0 +1,23 @@
+Region Type -- Description	
+-----------------------------
+Banner Images  -- Caserole images uploading  Admin
+Main View - Admin  Edit/Create new items end user not able to view
+Search across
+End user buttons on each card. -==> measurement LOV (KG/GRMS/No of Pieces) , Remarks,Quantity number submit
+Checkout == > 
+
+	Details remarks/ item/ quantity 
+	Customer name
+	Mobile Number opt
+	Mail id mandatory
+	Address to Pickup order - Fixed shop address
+	Submit Cancel page 1 home
+	
+
+For submit == 2 mails 
+	mail 1 ==> End user Order details + Shop details (order Placed) 
+				Note: You will get a confirmation email from fixed mail id
+	mail 2 ==> Admin/owner - Order details customer name number mail id
+				Note:  You need to send a confirmation email to customer mail id
+
+
